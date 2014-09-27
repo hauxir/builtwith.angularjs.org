@@ -22,6 +22,25 @@
     ]
   },
   {
+    "name": "TubePlates",
+    "thumb": "tubeplates/thumb.png",
+    "desc": "TubePlates is an app to listen to releases listed on Discogs easily using YouTube",
+    "url": "http://tubeplates.github.io",
+    "info": "http://tubeplates.github.io",
+    "src": "http://github.com/hauxir/tubeplates",
+    "submitter": "hauxir",
+    "submissionDate": "2014-09-05",
+    "tags": [
+      "Music",
+      "Discogs",
+      "YouTube",
+      "CoffeeScript",
+      "Bootstrap",
+      "jQuery",
+      "Open Source"
+    ]
+  },
+  {
     "name": "DBFreebies",
     "thumb": "dbfreebies/thumb.png",
     "desc": "A place to download the best freebies design resources from Dribbble and Behance.",
